@@ -2,11 +2,11 @@ from setuptools import setup, find_packages
 
 setup(
     name='erd_mesh',
-    version='0.1.0',
+    version='0.1.1',
     description='to use with mesh-* packages',
     author='ivan',
     author_email='pypi@eriad.com',
-    url='https://github.com/ivan-loh/mesh',  # Your GitHub repo URL
+    url='https://github.com/ivan-loh/erd_mesh',  # Your GitHub repo URL
     packages=find_packages(),
     install_requires=[
         'requests',

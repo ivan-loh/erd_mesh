@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "erd-mesh"
-version = "0.1.0"
+name = "erd_mesh"
+version = "0.1.1"
 description = ""
 authors = ["ivan <pypi@eriad.com>"]
 readme = "README.md"
