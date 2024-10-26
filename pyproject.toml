@@ -2,7 +2,7 @@
 name = "erd-mesh"
 version = "0.1.0"
 description = ""
-authors = ["ivan <ivan@eriad.com>"]
+authors = ["ivan <pypi@eriad.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
